@@ -1,4 +1,4 @@
-# audio-tempo
+# audio_tempo_*
 A very simple set of audio tempo control functions for Game Maker Studio 2
 ---
 
