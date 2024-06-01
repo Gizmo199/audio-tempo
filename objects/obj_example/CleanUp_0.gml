@@ -1,0 +1,1 @@
+audio_tempo_destroy(tempo);

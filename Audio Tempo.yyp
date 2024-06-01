@@ -1,0 +1,42 @@
+{
+  "$GMProject":"",
+  "%Name":"Audio Tempo",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Audio Tempo","folderPath":"folders/Audio Tempo.yy","name":"Audio Tempo","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Example","folderPath":"folders/Example.yy","name":"Example","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.400.0.556",
+  },
+  "name":"Audio Tempo",
+  "resources":[
+    {"id":{"name":"obj_example","path":"objects/obj_example/obj_example.yy",},},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+    {"id":{"name":"audio_tempo_create","path":"scripts/audio_tempo_create/audio_tempo_create.yy",},},
+    {"id":{"name":"audio_tempo_destroy","path":"scripts/audio_tempo_destroy/audio_tempo_destroy.yy",},},
+    {"id":{"name":"audio_tempo_pulse","path":"scripts/audio_tempo_pulse/audio_tempo_pulse.yy",},},
+    {"id":{"name":"audio_tempo_queue_method","path":"scripts/audio_tempo_queue_method/audio_tempo_queue_method.yy",},},
+    {"id":{"name":"audio_tempo_queue_sound","path":"scripts/audio_tempo_queue_sound/audio_tempo_queue_sound.yy",},},
+    {"id":{"name":"snd_example","path":"sounds/snd_example/snd_example.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

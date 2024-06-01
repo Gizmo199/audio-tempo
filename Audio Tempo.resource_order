@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Audio Tempo","order":2,"path":"folders/Audio Tempo.yy",},
+    {"name":"Example","order":4,"path":"folders/Example.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"audio_tempo_destroy","order":1,"path":"scripts/audio_tempo_destroy/audio_tempo_destroy.yy",},
+    {"name":"audio_tempo_pulse","order":2,"path":"scripts/audio_tempo_pulse/audio_tempo_pulse.yy",},
+    {"name":"audio_tempo_queue_method","order":4,"path":"scripts/audio_tempo_queue_method/audio_tempo_queue_method.yy",},
+    {"name":"audio_tempo_queue_sound","order":3,"path":"scripts/audio_tempo_queue_sound/audio_tempo_queue_sound.yy",},
+    {"name":"snd_example","order":1,"path":"sounds/snd_example/snd_example.yy",},
+  ],
+}
