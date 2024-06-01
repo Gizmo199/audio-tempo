@@ -5,12 +5,12 @@ function audio_tempo_create(_bpm) {
 		
 		#region Variables
 		
-			bpm		= 120;		// beats per minute
-			bias	= 0.05;		// the bias between the start and end of a beat frame
-			queue	= [];		// queued sounds to be played on beat
-			tick	= 0;		// The tick between frames
-			wait	= 0;		// Frame wait ( so that it doesn't pulse early AND on beat )
-			pulse	= false;	// hold that a pulse occured
+			bpm   = 120;   // beats per minute
+			bias  = 0.05;  // the bias between the start and end of a beat frame
+			queue = [];	// queued sounds to be played on beat
+			tick  = 0;	 // The tick between frames
+			wait  = 0;     // Frame wait ( so that it doesn't pulse early AND on beat )
+			pulse = false; // hold that a pulse occured
 			
 		#endregion
 		#region Metronome
