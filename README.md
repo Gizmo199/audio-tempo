@@ -3,6 +3,7 @@ A very simple set of audio tempo control functions for Game Maker Studio 2
 ---
 
 Below is the list of functions included for managing tempos, getting pulses, and queuing sounds / functions. Tempos use *time sources* so they **MUST** be cleaned up manually to prevent memory leaks.
+
 | Function | Description |
 | --- | --- | --- |
 
